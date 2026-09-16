@@ -75,12 +75,12 @@ Key analysis includes:
 
 ### Page 1 – Credit Card Overview
 
-![Page 1](Page1_Credit_Card_Overview.png)
+![Page 1](Page1_Credit_Card_Overview.png.png)
 
 ### Page 2 – Customer Analysis
 
-![Page 2](Page2_Customer_Analysis.png)
+![Page 2](Page2_Customer_Analysis.png.png)
 
 ### Page 3 – Credit Risk Analysis
 
-![Page 3](Page3_Credit_Risk_Analysis.png)
+![Page 3](Page3_Credit_Risk_Analysis.png.png)
