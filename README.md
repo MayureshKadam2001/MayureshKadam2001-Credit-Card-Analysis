@@ -83,4 +83,4 @@ Key analysis includes:
 
 ### Page 3 – Credit Risk Analysis
 
-![Page 3](Page3_Credit_Risk_Analysis.png.png)
+![Page 3](Page3_Credit_Risk.png.png)
